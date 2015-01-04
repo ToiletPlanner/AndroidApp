@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\main\res" >
+            <file
+                name="ic_green"
+                path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\main\res\drawable-hdpi\ic_green.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_oc"
+                path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\main\res\drawable-hdpi\ic_oc.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_red"
+                path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\main\res\drawable-hdpi\ic_red.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_green"
+                path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\main\res\drawable-mdpi\ic_green.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_oc"
+                path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\main\res\drawable-mdpi\ic_oc.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_red"
+                path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\main\res\drawable-mdpi\ic_red.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_green"
+                path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\main\res\drawable-xhdpi\ic_green.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_oc"
+                path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\main\res\drawable-xhdpi\ic_oc.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_red"
+                path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\main\res\drawable-xhdpi\ic_red.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_green"
+                path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\main\res\drawable-xxhdpi\ic_green.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_oc"
+                path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\main\res\drawable-xxhdpi\ic_oc.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_red"
+                path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\main\res\drawable-xxhdpi\ic_red.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_toilet_planner"
+                path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\main\res\layout\activity_toilet_planner.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="list_item"
+                path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\main\res\layout\list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="toilet_planner"
+                path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\main\res\menu\toilet_planner.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >Occupied
+                </string>
+            </file>
+            <file
+                path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="MyActionBar"
+                    parent="@android:style/Widget.Holo.Light.ActionBar" >
+                    <item name="android:background">
+#EBEBEB
+                    </item>
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+                    <item name="android:actionBarStyle">
+@style/MyActionBar
+                    </item>
+                </style>
+            </file>
+            <file
+                path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\main\res\values-w820dp\dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\build\generated\res\rs\debug" />
+        <source path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Dylan\AndroidStudioProjects\ToiletPlanner\app\src\debug\res" />
+    </dataSet>
+
+</merger>
